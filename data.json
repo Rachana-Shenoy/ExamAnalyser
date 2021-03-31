@@ -1,0 +1,102 @@
+{
+    "ChapterName":"Conic Section",
+	"questionSet":[
+		{	"questionNumber":41,
+			 "question":"P is any point on the ellipse 9x*x +36y*y=324 , whose foci are S and S’. Then  SP +SP' equals  ",
+		     "options":[3,12,36,324],
+		     "answer": [2,"SP +SP'=2a=> 2.6=12"]
+		  },
+		{   "questionNumber":42,
+			"question": "The lengths of major and minor axis of an ellipse are 10 and 8 respectively and its major axis along the y-axis. The equation of the ellipse referred to its centre as origin is  ", 	
+			"options":["x*x/25 + y*y/16 =1","x*x/16 + y*y/25 =1","x*x/100 + y*y/64 =1","x*x/64 + y*y/100 =1"],
+			"answer":[2,"Here given that2b=10,2a=8 thus b=5 a=4 Hence the required equation is ."]
+		  },
+		  { "questionNumber":43,
+			"question":"If the eccentricity of the two ellipse x*x/169 + y*y/25 =1 and x*x/a*a + y*y/b*b =1 are equal, then the value of a/b is ",
+			"options":["5/13","6/13","13/5","13/6"],
+			"answer": [3]
+		 },
+		 {  "questionNumber":44,
+			"question":"The distance between the foci of the ellipse 3x*x +4y*y=48 is ",
+			"options":[3,4,6,8],
+			"answer": [2]
+		 },
+		 {  "questionNumber":45,
+			"question":"The co-ordinates of the foci of the ellipse 3x*x +4y*y-12x+8y-4=0 are  ",
+			"options":["(1, 2), (3, 4)","(1, 4), (3, 1)","(1, 1), (3, 1)","(2, 3), (5, 4)"],
+			"answer": [3]
+		 },
+		 {  "questionNumber":46,
+			"question":"If the line y=2x=c be a tangent to the ellipse x*x/8 + y*y/4 =1, then c= ",
+			"options":["+-4","+-6","+-1","+-8"],
+			"answer": [2]
+		 },
+		 {  "questionNumber":47,
+			"question":"The position of the point (4, –3) with respect to the ellipse 2x*x +5y*y=20 is  ",
+			"options":["Outside the ellipse","On the ellipse ","On the major axis","None of these"],
+			"answer": [1]
+		 },
+		 {  "questionNumber":48,
+			"question":"The locus of the point of intersection of mutually perpendicular tangent to the ellipse x*x/a*a + y*y/b*b =1 , is  ",
+			"options":["A straight line","A parabola","A circle","None of these"],
+			"answer": [3]
+		 },
+		 {  "questionNumber":49,
+			"question":"If the latus rectum of an hyperbola be 8 and eccentricity be 3/sroot5 , then the equation of the hyperbola is  ",
+			"options":["4x*x -5y*y=100","5x*x -4y*y=100","4x*x +5y*y=100","5x*x +4y*y=100"],
+			"answer": [1]
+		 },
+		 {  "questionNumber":50,
+			"question":"The equation of the transverse and conjugate axis of the hyperbola 16x*x -y*y+64x+4y-44=0 are ",
+			"options":["x=2 y+2=0","x=2 y=2","y=2 x+2=0","none of these"],
+			"answer": [3]
+		 },
+		 {  "questionNumber":51,
+			"question":"The eccentricity of the hyperbola can never be equal to  ",
+			"options":["sroot 9/5","2 sroot 1/9 ","3 sroot 1/8",2],
+			"answer": [2]
+		 },
+		 {  "questionNumber":52,
+			"question":"The number of parabolas that can be drawn if two ends of the latus rectum are given",
+			"options":[1,2,4,3],
+			"answer": [2]
+		 },
+		 {  "questionNumber":53,
+			"question":" If the latus rectum of an ellipse be equal to half of its minor axis, then its eccentricity is  ",
+			"options":["3/2","sroot 3/2","2/3","sroot 2/3"],
+			"answer": [2]
+		 },
+		 {  "questionNumber":54,
+			"question":" The equation of the ellipse whose centre is at origin and which passes through the points (–3, 1) and (2, –2) is ",
+			"options":["5x*x +3y*y=32","3x*x +5y*y=32","5x*x -3y*y=32","3x*x +5y*y+32=0"],
+			"answer": [2]
+		 },
+		{   "questionNumber":55,
+			"question":"If the eccentricity of an ellipse be 5/8 and the distance between its foci be 10, then its latus rectum is  ",
+			"options":["39/4",12,15,"37/2"],
+			"answer": [1]
+		 },
+		{   "questionNumber":56,
+			"question":"The eccentricity of an ellipse is 2/3, latus rectum is 5 and centre is (0, 0). The equation of the ellipse is  ",
+			"options":["x*x/81 + y*y/45 =1","4x*x/81 + 4y*y/45 =1","x*x/9 + y*y/5 =1","x*x/a*a + y*y/b*b=1"],
+			"answer": [2]
+		 },
+		{   "questionNumber":57,
+			"question":" Equation of the hyperbola with eccentricity 3/2 and foci at (=-2 , 0) is ",
+			"options":["x*x/4 + y*y/5 =4/9","x*x/9 + y*y/9 =4/9","x*x/4 + y*y/9 =1","none of these"],
+			"answer": [2]
+		 },
+		{   "questionNumber":58,
+			"question":"The equation x*x/2-r + y*y/r-5+1 =0 represents an ellipse if ",
+			"options":["r > 2","r > 5","2 < r <5","r > 5 or r < 2"],
+			"answer": [4]
+		 },
+		 {  "questionNumber":59,
+			"question":"The area of the rectangle formed by the ends of latus rectum of ellipse  x*x/25+y*y/9= 1, is ",
+			"options":["18/5 sq units","144/5 sq units","24/5 sq units","36/5 sq units"],
+			"answer": [3]
+		 }
+		  
+        
+	]
+}
